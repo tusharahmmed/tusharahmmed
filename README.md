@@ -1,7 +1,5 @@
-## Hi there 👋, Hi, My name is Tushar
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharahmmed&show_icons=true&bg_color=45,E86445,904E95&title_color=fff&icon_color=fff&text_color=fff)  
 
 ![Profile views](https://gpvc.arturio.dev/tusharahmmed) 
 
@@ -10,12 +8,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 <h3 align="left">Tools:</h3>
 <p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharahmmed&show_icons=true&theme=gradient)   
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tusharahmmed)  
 
-![GitHub metrics](https://metrics.lecoq.io/tusharahmmed)  
+
 
 
 
