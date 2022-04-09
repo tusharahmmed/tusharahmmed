@@ -7,7 +7,7 @@
 
 <details open>
 
-<summary>[Archit](https://architbuilders.netlify.app/) (Construction Company Website)</summary>
+<summary> Archit (Construction Company Website)</summary>
 
 - [Live Preview](https://architbuilders.netlify.app/)  
 - [Frontend](https://github.com/tusharahmmed/archit-frontend)
@@ -16,7 +16,7 @@
 
 <details open>
 
-<summary>[Carz Shop](https://carz-shop.web.app/) (Car Selling Shop)</summary>
+<summary> Carz Shop (Car Selling Shop)</summary>
 
 - [Live Preview](https://carz-shop.web.app/) 
 - [Frontend](https://github.com/tusharahmmed/carz-frontend)
