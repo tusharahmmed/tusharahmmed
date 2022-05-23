@@ -24,6 +24,15 @@
 
 </details>
 
+<details open>
+
+<summary> Medicals (Medical Center Website)</summary>
+
+- [Live Preview](https://medicals.netlify.app/)  
+- [Frontend](https://github.com/tusharahmmed/medical-center)
+
+</details>
+
 ## Statistics
 <details open>
 
