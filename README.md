@@ -41,7 +41,7 @@
  
 ![Profile views](https://gpvc.arturio.dev/tusharahmmed) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharahmmed&show_icons=true&bg_color=45,E86445,904E95&title_color=fff&icon_color=fff&text_color=fff)  
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharahmmed&theme=algolia" alt="tusharahmmed"  />
 
 </details>
