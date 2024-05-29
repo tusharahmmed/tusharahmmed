@@ -7,22 +7,14 @@
 
 <details open>
 
-<summary> Archit (Construction Company Website)</summary>
+<summary> 4U LOGISTICS (Corporate Logistics Web application)</summary>
 
-- [Live Preview](https://architbuilders.netlify.app/)  
-- [Frontend](https://github.com/tusharahmmed/archit-frontend)
-
-</details>
-
-<details open>
-
-<summary> Carz Shop (Car Selling Shop)</summary>
-
-- [Live Preview](https://carz-shop.web.app/) 
-- [Frontend](https://github.com/tusharahmmed/carz-frontend)
-- [Backend](https://github.com/tusharahmmed/carz-server)
+- [Live Preview](https://4u-frontend.vercel.app/)  
+- [Frontend](https://github.com/tusharahmmed/4u_logistics_frontend)
+- [Backend](https://github.com/tusharahmmed/4u_logistics_backend)
 
 </details>
+
 
 <details open>
 
